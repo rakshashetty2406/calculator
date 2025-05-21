@@ -13,9 +13,7 @@ A simple calculator made using **HTML**, **CSS**, and **JavaScript**.
 1. Open `index.html` in your browser
 2. Use the calculator buttons to perform calculations
 
-## Screenshot
 
-![App Screenshot](screenshot.png)
 
 ## Author
-**Raksha Shetty** – BCA Student
+**Raksha Shetty** – BCA Student - Agnirva Software Internship
