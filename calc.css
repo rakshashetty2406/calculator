@@ -1,0 +1,28 @@
+calculator
+{
+    padding: 10px;
+    height:380px;
+    width:400px;
+    margin: auto;
+    border-radius: 1em;
+    background-color: black;
+}
+display-box
+{
+    background-color: rgb(241, 216, 184);
+    color: black;
+    border-radius: 5px;
+    width: 100%;
+    height: 65%;
+}
+#btn
+{
+    background-color: rgb(216, 184, 247);
+}
+input[type=button]
+{
+    background-color: rgb(243, 198, 206);
+    border-radius: 5px;
+    width: 100%;
+    height: 65%;
+}
